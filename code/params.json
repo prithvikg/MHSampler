@@ -1,0 +1,10 @@
+{
+   "m":2,
+   "sigma":0.1,
+   "N":1000,
+   "A_file" : "Afile",
+   "lambda_file" : "lambda_file",
+   "Y_file" : "Y_file",
+   "times_file" : "t_file",
+   "num_iter" : 10
+}

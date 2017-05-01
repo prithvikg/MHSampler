@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Fake Data Creation}{}% 1
+\BOOKMARK [1][-]{section.2}{Likelihood Function}{}% 2
+\BOOKMARK [1][-]{section.3}{Procedure for MCMC step}{}% 3
+\BOOKMARK [1][-]{section.4}{MH Experiments}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Base Case}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Increasing the number of datapoints}{section.4}% 6
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Number of datapoints = 5000}{subsection.4.2}% 7
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Number of datapoints = 10000}{subsection.4.2}% 8
+\BOOKMARK [2][-]{subsection.4.3}{Increasing the proposal width}{section.4}% 9
